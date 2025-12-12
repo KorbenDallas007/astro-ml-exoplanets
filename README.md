@@ -54,5 +54,10 @@ El modelo demostró ser altamente efectivo para la tarea de priorización astron
 *   **Alta Eficiencia**: Con un 98% de exactitud, el sistema puede ahorrar tiempo valioso del telescopio descartando automáticamente gigantes gaseosos y mundos extremos.
 *   **Importancia del Escalado**: El éxito del algoritmo KNN dependió fundamentalmente de la estandarización de las variables físicas.
 
-by: Alejandro Barrenechea
+---
+
+by Alejandro Barrenechea
+
+---
+
 Basado en: Misiones Kepler/TESS
