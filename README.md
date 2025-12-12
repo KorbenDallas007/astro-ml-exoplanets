@@ -41,7 +41,7 @@ Se optimizó el modelo utilizando el **Método del Codo**, seleccionando **K=5**
     *   **Precision (0.84):** Existieron algunos falsos positivos (planetas "Infierno" limítrofes clasificados erróneamente como habitables).
 
 ### Matriz de Confusión
-```text
+
 [[ 21   0   1   0]  <- Candidato Habitable (Solo 1 perdido)
  [  0  32   1   0]  <- Gigante Gaseoso
  [  3   0 226   0]  <- Infierno Rocoso (3 confundidos con habitables)
